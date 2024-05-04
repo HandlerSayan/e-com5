@@ -294,7 +294,7 @@ app.post("/getcart", fetchUser, async (req, res) => {
 //CONNECTING DATABASE
 mongoose
   .connect(
-    "mongodb+srv://dbSayan:admin_0100@cluster0.tqvg1nu.mongodb.net/e-com"
+    "mongodb+srv://sayanofficial96:Sayan_0100@cluster0.rdywx8q.mongodb.net/e-comB"
   )
   .then(() => {
     console.log("Database Connected Successfully");
